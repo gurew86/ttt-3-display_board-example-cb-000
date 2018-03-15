@@ -7,5 +7,4 @@ def display_board
   puts row1
   puts row2
   puts row1
-  return
 end
